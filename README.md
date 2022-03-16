@@ -1,7 +1,8 @@
 [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://vshymanskyy.github.io/StandWithUkraine)
 
 
-## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30" height="30"> Hello there! ![image title](https://rushter.com/counter.svg)
+## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30" height="30"> Hello there! ![](https://komarev.com/ghpvc/?username=WilliamFalci)
+
 
 Nice to meet you, Im William Falci, a full-stack web developer from Italy :green_heart::white_heart::heart:. I love create, test, and work on everything can make my mind blow up!
 
