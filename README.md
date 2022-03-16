@@ -3,9 +3,9 @@
 
 ## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30" height="30"> Hello there! ![image title](https://rushter.com/counter.svg)
 
-Nice to meet you, Im William Falci, a full-stack web developer from Italy, I love create, test, and work on everything can make my mind blow up!
+Nice to meet you, Im William Falci, a full-stack web developer from Italy :green_heart::white_heart::heart:. I love create, test, and work on everything can make my mind blow up!
 
-I currently live in Florence, a beatufiul city where I can work in armony with the culture and art <3
+I currently live in Florence 💜, a beatufiul city where I can work in armony with the culture and art.
 
 ## <img src="https://user-images.githubusercontent.com/36926081/158619490-9f9f6018-c066-4b18-aea5-84c78f81b58d.png" width="30" height="30"> Tech Stack
 
