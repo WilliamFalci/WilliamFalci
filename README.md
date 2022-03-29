@@ -18,7 +18,7 @@ These are my favorite tech stack for building all kinds of stuff.
 - **Datastores** - Postgres, MySQL, MongoDB
 - **Infrastucture** - Docker
 - **Tools** - Github, VS Code
-- **O.S.** - Linux / Windows 12
+- **O.S.** - Linux / Windows 11
 
 
 ## <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="30" height="30"> GitHub Stats
