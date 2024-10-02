@@ -12,8 +12,8 @@ I currently live in Florence 💜, a beatufiul city where I can work in armony w
 
 These are my favorite tech stack for building all kinds of stuff.
 
-- **Backend** - NodeJs / Php / Python
-- **Frontend** - HTML5/CSS3, JavaScript (ES6), Vue3 (+/- Capacitor)
+- **Backend** - NodeJs, / TypeScript / Php / Python
+- **Frontend** - Nuxt 2/3, Vue 2/3, HTML5/CSS3, JavaScript (ES6), Vue3 (+/- Capacitor)
 - **Scripting** - Bash
 - **Datastores** - Postgres, MySQL, MongoDB
 - **Infrastucture** - Docker
